@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GasL&#39;s World</title>
+  
+  <subtitle>welcome to my world!</subtitle>
+  <link href="https://lcxddn.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://lcxddn.github.io/"/>
+  <updated>2021-01-18T12:45:03.582Z</updated>
+  <id>https://lcxddn.github.io/</id>
+  
+  <author>
+    <name>GasL</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="https://lcxddn.github.io/2021/01/18/hello/"/>
+    <id>https://lcxddn.github.io/2021/01/18/hello/</id>
+    <published>2021-01-18T12:32:55.000Z</published>
+    <updated>2021-01-18T12:45:03.582Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;你好！这是我的第一篇正式的blog。&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;  欢迎来到我的博客，这是我的第一次尝试自己的博客。过程中虽然遇到了一些困难，但&lt;br&gt;  是最终还是成功创建了这个博客，非常开心。&lt;br&gt; </summary>
+        
+      
+    
+    
+    
+    <category term="test" scheme="https://lcxddn.github.io/categories/test/"/>
+    
+    
+    <category term="test" scheme="https://lcxddn.github.io/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>first blog</title>
+    <link href="https://lcxddn.github.io/2021/01/17/first-blog/"/>
+    <id>https://lcxddn.github.io/2021/01/17/first-blog/</id>
+    <published>2021-01-17T04:47:55.000Z</published>
+    <updated>2021-01-17T05:24:13.506Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;em&gt;xietiwenben&lt;/em&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;cutiwenben&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;cuxietiwenben&lt;/em&gt;&lt;/strong&gt; </summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://lcxddn.github.io/2021/01/16/hello-world/"/>
+    <id>https://lcxddn.github.io/2021/01/16/hello-world/</id>
+    <published>2021-01-16T10:28:04.852Z</published>
+    <updated>2021-01-16T10:28:04.852Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

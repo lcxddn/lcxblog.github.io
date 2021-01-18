@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>first blog</title>
+    <url>/2021/01/17/first-blog/</url>
+    <content><![CDATA[<p><em>xietiwenben</em>  </p>
+<p><strong>cutiwenben</strong>  </p>
+<p><strong><em>cuxietiwenben</em></strong>  </p>
+<hr>
+<hr>
+<p>wuhu<br><del>wuhu</del><br><u>wuhu</u><br>创建脚注<a href="%E7%89%9B%E6%B0%94%E5%86%B2%E5%A4%A9">^abb</a>  </p>
+]]></content>
+  </entry>
+  <entry>
+    <title>hello</title>
+    <url>/2021/01/18/hello/</url>
+    <content><![CDATA[<p><strong>你好！这是我的第一篇正式的blog。</strong>  </p>
+<p>  欢迎来到我的博客，这是我的第一次尝试自己的博客。过程中虽然遇到了一些困难，但<br>  是最终还是成功创建了这个博客，非常开心。<br>  我是物联网工程专业的一名大三学生，接下来准备考研，今后会在这篇博客上更新自己<br>  的学习进度或者是一些其他的内容，可能是最近感兴趣亦或是着手的项目，也有可能是<br>  最近生活或者学习上的一些感想。  </p>
+<p>  创立这个博客的最初目的就是记录一下自己的学习进度，以便今后回顾从而督促自己，<br>  希望自己未来能够做到更好，加油！！  </p>
+<hr>
+]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/01/16/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
